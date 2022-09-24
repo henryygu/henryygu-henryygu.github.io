@@ -1,7 +1,8 @@
 ---
-layout: home
+layout: splash
 excerpt: "Hi"
 tags: [Henry Gu]
 image:
   feature: "/assets/images/home.jpg"
 ---
+<p>Text</p>

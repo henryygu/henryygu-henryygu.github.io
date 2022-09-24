@@ -1,7 +1,10 @@
 ---
 layout: home
+author_profile: false
+title: "Hi"
 excerpt: "Hi"
 tags: [Henry Gu]
-image:
-  feature: "/assets/images/home.jpg"
+header:
+  overlay_image: /assets/images/home.jpg
+  caption: "Hi"
 ---

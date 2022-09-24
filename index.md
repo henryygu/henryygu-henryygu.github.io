@@ -1,0 +1,7 @@
+---
+layout: home
+excerpt: "Hi"
+tags: [Henry Gu]
+image:
+  feature: "/assets/images/home.jpg"
+---
